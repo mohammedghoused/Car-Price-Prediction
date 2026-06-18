@@ -163,11 +163,11 @@ Predicted Car Price (INR)
 ---
 ## Application Screenshot
 
-### Home Page
+### LINEAR REGRESSION OUTPUT
 
 ![Home Page](screenshots/LR.png)
 
-### Prediction Result
+### RANDOM FOREST OUTPUT
 
 ![Prediction Result](screenshots/RF.png)
 ## Author
