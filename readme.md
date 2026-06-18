@@ -161,7 +161,15 @@ Predicted Car Price (INR)
 * Brand Tier Segmentation
 
 ---
+## Application Screenshot
 
+### Home Page
+
+![Home Page](screenshots/LR.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/RF.png)
 ## Author
 
 Mohammed Ghouse D
